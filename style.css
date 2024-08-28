@@ -1,0 +1,26 @@
+
+
+
+
+  body{
+    animation: lgbt 5s infinite;
+
+    height: 100dvh;
+    transition: 1s;
+
+    background: rgb(246,232,20);
+      background: linear-gradient(-120deg, rgba(246,232,20,1) 0%, rgba(0,0,0,1) 18%, rgba(197,42,42,1) 27%, rgba(0,0,0,1) 38%, rgba(67,38,215,1) 40%, rgba(0,0,0,1) 50%, rgba(253,68,40,1) 57%, rgba(76,51,78,1) 65%, rgba(252,176,69,1) 75%, rgba(27,231,211,1) 90%, rgba(213,247,0,1) 95%);
+
+  }
+
+
+  @keyframes lgbt {
+    0%{
+      
+    }
+
+    100%{
+     
+    }
+
+  }
